@@ -6,21 +6,21 @@ const DUMMY_USERS = {
     name: 'Maria',
     email: 'maria@alunos.com.br',
     avatarUrl:
-        'https://cdn.pixabay.com/photo/2014/04/02/14/10/female-306407_1280.png',
+        'https://cdn.pixabay.com/photo/2021/11/12/03/04/woman-6787784_1280.png',
   ),
   '2': User(
     id: '2',
     name: 'Rafael',
     email: 'rafael@alunos.com.br',
     avatarUrl:
-        'https://cdn.pixabay.com/photo/2014/04/03/10/32/businessman-310819_1280.png',
+        'https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_1280.png',
   ),
   '3': User(
     id: '3',
     name: 'Fernanda',
     email: 'fernanda@zymail.com.br',
     avatarUrl:
-        'https://cdn.pixabay.com/photo/2014/03/25/16/54/user-297566_1280.png',
+        'https://cdn.pixabay.com/photo/2016/03/31/20/27/avatar-1295773_1280.png',
   ),
   '4': User(
     id: '4',
